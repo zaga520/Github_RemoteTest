@@ -3,4 +3,5 @@ How are you?
 and you?
 edit by remote
 secondly edited by the remote
+slave:2018年9月8日 14:04:11
 master: 2018年9月8日 14:09:12
